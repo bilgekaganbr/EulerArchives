@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\bin\Debug\net7.0\Sum_square_difference.exe
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\bin\Debug\net7.0\Sum_square_difference.deps.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\bin\Debug\net7.0\Sum_square_difference.runtimeconfig.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\bin\Debug\net7.0\Sum_square_difference.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\bin\Debug\net7.0\Sum_square_difference.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\Sum_square_difference.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\Sum_square_difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\Sum_square_difference.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\Sum_square_difference.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\Sum_square_difference.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\Sum_square_difference.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\refint\Sum_square_difference.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\Sum_square_difference.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\Sum_square_difference.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Sum_square_difference\obj\Debug\net7.0\ref\Sum_square_difference.dll

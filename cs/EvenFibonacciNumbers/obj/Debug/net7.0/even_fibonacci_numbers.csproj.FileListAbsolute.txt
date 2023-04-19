@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\even_fibonacci_numbers.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\even_fibonacci_numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\even_fibonacci_numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\even_fibonacci_numbers.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\even_fibonacci_numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\bin\Debug\net7.0\even_fibonacci_numbers.exe
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\bin\Debug\net7.0\even_fibonacci_numbers.deps.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\bin\Debug\net7.0\even_fibonacci_numbers.runtimeconfig.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\bin\Debug\net7.0\even_fibonacci_numbers.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\bin\Debug\net7.0\even_fibonacci_numbers.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\even_fibonacci_numbers.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\refint\even_fibonacci_numbers.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\even_fibonacci_numbers.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\even_fibonacci_numbers.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Even_fibonacci_numbers\obj\Debug\net7.0\ref\even_fibonacci_numbers.dll

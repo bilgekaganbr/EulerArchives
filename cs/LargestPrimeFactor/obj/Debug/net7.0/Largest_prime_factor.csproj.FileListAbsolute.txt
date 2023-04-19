@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\bin\Debug\net7.0\Largest_prime_factor.exe
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\bin\Debug\net7.0\Largest_prime_factor.deps.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\bin\Debug\net7.0\Largest_prime_factor.runtimeconfig.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\bin\Debug\net7.0\Largest_prime_factor.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\bin\Debug\net7.0\Largest_prime_factor.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\Largest_prime_factor.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\Largest_prime_factor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\Largest_prime_factor.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\Largest_prime_factor.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\Largest_prime_factor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\Largest_prime_factor.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\refint\Largest_prime_factor.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\Largest_prime_factor.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\Largest_prime_factor.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_prime_factor\obj\Debug\net7.0\ref\Largest_prime_factor.dll

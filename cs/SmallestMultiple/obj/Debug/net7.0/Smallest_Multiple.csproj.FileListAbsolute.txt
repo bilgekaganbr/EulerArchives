@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\bin\Debug\net7.0\Smallest_Multiple.exe
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\bin\Debug\net7.0\Smallest_Multiple.deps.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\bin\Debug\net7.0\Smallest_Multiple.runtimeconfig.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\bin\Debug\net7.0\Smallest_Multiple.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\bin\Debug\net7.0\Smallest_Multiple.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\Smallest_Multiple.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\Smallest_Multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\Smallest_Multiple.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\Smallest_Multiple.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\Smallest_Multiple.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\Smallest_Multiple.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\refint\Smallest_Multiple.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\Smallest_Multiple.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\Smallest_Multiple.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Smallest_Multiple\obj\Debug\net7.0\ref\Smallest_Multiple.dll

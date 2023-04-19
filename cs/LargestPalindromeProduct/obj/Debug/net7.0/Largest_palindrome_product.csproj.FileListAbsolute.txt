@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\Largest_palindrome_product.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\Largest_palindrome_product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\Largest_palindrome_product.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\Largest_palindrome_product.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\Largest_palindrome_product.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\bin\Debug\net7.0\Largest_palindrome_product.exe
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\bin\Debug\net7.0\Largest_palindrome_product.deps.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\bin\Debug\net7.0\Largest_palindrome_product.runtimeconfig.json
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\bin\Debug\net7.0\Largest_palindrome_product.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\bin\Debug\net7.0\Largest_palindrome_product.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\Largest_palindrome_product.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\refint\Largest_palindrome_product.dll
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\Largest_palindrome_product.pdb
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\Largest_palindrome_product.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Masaüstü\Sololearn\cs\Largest_palindrome_product\obj\Debug\net7.0\ref\Largest_palindrome_product.dll
